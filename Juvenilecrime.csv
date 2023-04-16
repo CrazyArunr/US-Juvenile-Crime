@@ -1,0 +1,51 @@
+State,Sales,Profit,Quantity,Discount
+Alabama,62,222,58,21.2
+Alaska,-289,3709,48,44.5
+Arizona,920,5175,80,31
+Arkansas,-97,2893,50,19.5
+California,312,2833,91,40.6
+Colorado,763,2863,78,38.7
+Connecticut,565,1822,77,11.1
+Delaware,996,5245,72,15.8
+Florida,55,342,80,31.9
+Georgia,5,49,60,25.8
+Hawaii,5,18,83,20.2
+Idaho,648,4626,54,14.2
+Illinois,1151,2617,83,24
+Indiana,622,2222,65,21
+Iowa,1036,3702,57,11.3
+Kansas,187,1870,66,18
+Kentucky,-3,13,52,16.3
+Louisiana,3979,7959,66,22.2
+Maine,28,2566,51,7.8
+Maryland,818,3410,67,27.8
+Massachusetts,277,1978,85,16.3
+Michigan,5,243,74,35.1
+Minnesota,358,2754,66,14.9
+Mississippi,1898,5274,44,17.1
+Missouri,446,1714,70,28.2
+Montana,527,2107,53,16.4
+Nebraska,4.3,102,62,16.5
+Nevada,12.2,252,81,46
+New Hampshire,2.1,57,56,9.5
+New Jersey,7.4,159,89,18.8
+New Mexico,11.4,285,70,32.1
+New York,11.1,254,86,26.1
+North Carolina,13,337,45,16.1
+North Dakota,0.8,45,44,7.3
+Ohio,7.3,120,75,21.4
+Oklahoma,6.6,151,68,20
+Oregon,4.9,159,67,29.3
+Pennsylvania,6.3,106,72,14.9
+Rhode Island,3.4,174,87,8.3
+South Carolina,14.4,279,48,22.5
+South Dakota,3.8,86,45,12.8
+Tennessee,13.2,188,59,26.9
+Texas,12.7,201,80,25.5
+Utah,3.2,120,80,22.9
+Vermont,2.2,48,32,11.2
+Virginia,8.5,156,63,20.7
+Washington,4,145,73,26.2
+West Virginia,5.7,81,39,9.3
+Wisconsin,2.6,53,66,10.8
+Wyoming,6.8,161,60,15.6
